@@ -1,0 +1,47 @@
+
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 28px;
+}
+
+.firstHeader {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+    margin-left: 35px;
+}
+
+.secondHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 437px;
+}
+
+.secondHeader 
+     span {
+        font-family: 'Open Sans';
+        font-size: 15px;
+        font-weight: 600;
+}
+
+.navButton {
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 600;
+    padding: 14px 47px;
+    background-color: #754EF9;
+    border: none;
+    border-radius: 24px;
+    color: white;
+}
+
+
+
+
+  
+  
